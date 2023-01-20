@@ -1,4 +1,6 @@
 from mylib.logic import wiki
 
 
-print(wiki(name='Ghasemlou'))
+result = wiki(name='France')
+result = result
+print(result)
