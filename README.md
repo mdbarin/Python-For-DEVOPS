@@ -1,3 +1,7 @@
+## Status badge
+[![Python application test with Github Actions](https://github.com/mdbarin/Python-For-DEVOPS/actions/workflows/devops.yml/badge.svg)](https://github.com/mdbarin/Python-For-DEVOPS/actions/workflows/devops.yml)
+
+
 # Python-For-DEVOPS
 
 ## Scaffold
