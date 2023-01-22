@@ -9,6 +9,7 @@ numpy
 matplotlib
 h5py
 scipy
-#cartopy
+fastapi
+uvicorn
 
 
