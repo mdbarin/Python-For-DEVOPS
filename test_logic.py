@@ -1,4 +1,6 @@
 from mylib.logic import wiki
 
+
 def wiki_test():
-    assert 'fruit' in wiki()
+    assert "war" in wiki()
+wiki_test()

@@ -16,6 +16,3 @@ buidl:
 deploy:
 	# deploy
 all: install format lint test deploy
-
-
-
